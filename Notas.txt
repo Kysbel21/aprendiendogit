@@ -1,0 +1,5 @@
+Comando init nos sirve para inicializar un repositorio, SI ESTE ESTÁ VACIO
+
+Rutina de guardado 
+    status: nos muestra el estado de la rama de trabajo 
+    
